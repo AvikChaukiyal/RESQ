@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "alerts": {
+      ".read": true,
+      ".write": true
+    },
+    "incidents": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      ".indexOn": ["status", "userId"]
+    }
+  }
+}
