@@ -1,4 +1,4 @@
-# ResQ: A Full-Stack Disaster Management Platform
+# ResQ: A Full-Stack Disaster Management
 
 ResQ is a real-time, full-stack disaster management application designed to streamline rescue and relief operations. It provides administrative authorities with the tools to manage rescue camps, define safety zones on an interactive map, and monitor user locations, while offering a sophisticated chatbot for user assistance.
 
